@@ -17,5 +17,5 @@ Project-SLCODE-WARはunityでマルチプレイFPSおよびキャンペーンモ
 <br>マルチFPS　バトロワなし
 # ダウンロード
 <br>ver   名前
-<br>0.05  Project-SLCODE-WAR 0.05
+<br>0.05  Project-SLCODE-WAR 0.05 https://github.com/Rusksoft/Project-SLCODE-WAR/releases/tag/0.05
 
