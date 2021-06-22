@@ -6,4 +6,16 @@ Project-SLCODE-WARはunityでマルチプレイFPSおよびキャンペーンモ
 本ソフトウェアは、UnityPersonalライセンスを使って制作しています。
 詳しくは　https://store.unity.com/#plans-individual　
 
+# 目次
+<br>概要
+<br>ダウンロード
+#
+# 概要
+<br>Project-SLCODE-WARはキャンペーンとマルチFPSを搭載したFPSゲームです
+<br>予定価格　2000円もしくは無料
+<br>キャンペーンストーリー　未定
+<br>マルチFPS　バトロワなし
+# ダウンロード
+
+
 
